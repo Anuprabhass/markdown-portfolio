@@ -1,4 +1,5 @@
 Replace this with a link to your a GitHub or social media profile.
-profile.Anuprabhass/markdown-portfolio
+
+[text](https://Anuprabhass/markdown-portfolio.com)
 
 
